@@ -1,0 +1,15 @@
+AFIF RESOLUSI
+- Memahami HTML dasar
+- Memahami HTML lanjutan
+- Memahami CSS dasar
+- Memahami CSS layout dasar
+- Membuat Web sederhana menggunakan HTML dan CSS
+- Memahami CSS 3
+- Memahami CSS units
+- Memahami Flax box
+- Memahami CSS Grid
+- Memahami Git ( Version Control system )
+- Memahami framework ( Bootstrap )
+- Memahami  Javascript
+- Memahami DOM ( Document Object Model )
+- Membuat Web sederhana menggunakan HTML, CSS dan Javascript
